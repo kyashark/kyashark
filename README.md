@@ -1,3 +1,3 @@
  Hi, I’m Shakya
-- 👨‍💻 Junior Web Designer & Developer
+- 👨‍💻 Junior Web Designer and Developer
 - 🌱 Currently diving into JavaScript and Java
