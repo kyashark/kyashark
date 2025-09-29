@@ -2,7 +2,7 @@
 ### I'm Shakya
 
 <p align="left">
-Started with JavaScript, now expanding skills in Python
+Started with JavaScript now expanding skills in Python
 </p>
 
 ##
