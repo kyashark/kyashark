@@ -1,11 +1,8 @@
 
-### I'm Shakya. Just starting my coding journey
+### I'm Shakya
 
 <p align="left">
- 💻 JavaScript, React, PHP – got the basics, still learning<br>
- 🔄 Back to MERN, Java and SQL for a stronger base<br>
- 🚀 New to Spring Boot and Laravel<br>
- 🎨 Always experimenting and having fun with Frontend (CSS + frameworks)
+Started with JavaScript, now expanding skills in Python
 </p>
 
 ##
